@@ -22,21 +22,21 @@
        type="text/css"
        id="current-color-scheme">
     .ColorScheme-Text {
-    color:#4d4d4d;
+    color:#f5f5f5;
     }
     </style>
     <style
        id="current-color-scheme-75"
        type="text/css">
       .ColorScheme-Text {
-        color:#4d4d4d;
+    color:#f5f5f5;
       }
       </style>
     <style
        type="text/css"
        id="current-color-scheme-7">
     .ColorScheme-Text {
-    color:#4d4d4d;
+    color:#f5f5f5;
     }
     </style>
   </defs>

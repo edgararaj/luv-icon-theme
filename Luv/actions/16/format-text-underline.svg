@@ -22,7 +22,7 @@
        type="text/css"
        id="current-color-scheme">
     .ColorScheme-Text {
-    color:#4d4d4d;
+    color:#f5f5f5;
     }
     </style>
   </defs>
@@ -106,7 +106,8 @@
      id="layer1"
      transform="translate(-3,-1033.3622)">
     <path
-       style="color:#4d4d4d;fill:currentColor;fill-opacity:1;stroke:none"
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+	   class="ColorScheme-Text"
        d="M 4.5 3 C 4.223 3 4 3.223 4 3.5 L 4 4 L 4 7 C 4 9.216 5.784 11 8 11 C 10.216 11 12 9.216 12 7 L 12 4 L 12 3.5 C 12 3.223 11.777 3 11.5 3 C 11.223 3 11 3.223 11 3.5 L 11 4 L 11 7 C 11 8.662 9.662 10 8 10 C 7.226703 10 6.5308766 9.7017898 6 9.2246094 L 6 4 L 6.5 4 C 6.777 4 7 3.777 7 3.5 C 7 3.223 6.777 3 6.5 3 L 4.5 3 z M 4 12 L 4 13 L 12 13 L 12 12 L 4 12 z "
        transform="translate(3,1033.3622)"
        id="rect832" />
